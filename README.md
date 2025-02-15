@@ -1,7 +1,7 @@
 # Hi there, I'm Aranna! 👋
 
 - digging into blockchain & AI & decentralized governance
-- building a blockchain project for open-sourced dApps
+- building a blockchain project for dApps
 
 I don’t write code but I utilize AI tools to build something interesting.
 
