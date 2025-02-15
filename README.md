@@ -1,45 +1,22 @@
 # Hi there, I'm Aranna! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for technology and open-source projects. Below you'll find more information about me and my work.
+I'm a blockchain enthusiast with a passion for AI and decentralized technologies. Currently, I'm focused on building and developing a blockchain project that explores new possibilities in the world of decentralized applications (dApps).
 
-## 🔧 Technologies & Tools
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Django, Spring Boot
-- **Tools:** Git, Docker, Kubernetes, Jenkins, GitHub Actions
-- **Databases:** MySQL, PostgreSQL, MongoDB
+I don’t write code but I leverage AI tools to enhance my work and streamline processes.
 
 ## 🚀 Projects
 Here are some of the projects I've been working on:
 
-### [Project Name 1](https://github.com/Aranna-0572/project-name-1)
+### [DAism](https://github.com/DAism2019/Smartcontract)
 A brief description of what this project does and its purpose.
 
-### [Project Name 2](https://github.com/Aranna-0572/project-name-2)
-A brief description of what this project does and its purpose.
+### [DAism-Docs](https://github.com/Aranna-0572/DAism-Docs)
+You can find related Docs for DAism here.
 
-### [Project Name 3](https://github.com/Aranna-0572/project-name-3)
-A brief description of what this project does and its purpose.
+# PLZ CONTACT ME‼️
 
-## 🌱 Currently Learning
-- Advanced algorithms and data structures
-- Cloud computing with AWS and Azure
-- Machine learning and AI
-
-## 📫 How to reach me
-- **Email:** aranna@example.com
-- **LinkedIn:** [Aranna's LinkedIn](https://www.linkedin.com/in/aranna-0572/)
 - **Twitter:** [@Aranna0572](https://twitter.com/Aranna0572)
-
-## 💬 Ask me about
-- Web development
-- Open-source contributions
-- DevOps practices
-- Software architecture
-
-## ⚡ Fun fact
-I love exploring new technologies and constantly challenging myself to learn and grow. In my free time, I enjoy hiking, reading sci-fi novels, and playing chess.
-
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate on any projects.
-
+- **Wechat:** Aranna_0572
+- 
 Happy coding! 😊
 ```` ▋
