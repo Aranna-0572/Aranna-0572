@@ -3,7 +3,7 @@
 - digging into blockchain & AI & decentralized governance
 - building a blockchain project for open-sourced dApps
 
-I don’t write code but I leverage AI tools to enhance my work and streamline processes.
+I don’t write code but I utilize AI tools to build something interesting.
 
 ## 🚀 Projects
 Here are some of the projects I've been working on:
@@ -15,7 +15,8 @@ A brief description of what this project does and its purpose.
 You can find related Docs for DAism here.
 
 # PLZ CONTACT ME‼️
-We are looking for collabration with open-source AI projects!
+We are looking for collabration with AI projects!
+If you are interested in the integration of AI with blockchain in the context of financial empowerment, please contact us. We can provide build something interesting together!
 
 - **Twitter:** [@Aranna0572](https://twitter.com/Aranna0572)
 - **Wechat:** Aranna_0572
