@@ -14,9 +14,10 @@ A brief description of what this project does and its purpose.
 You can find related Docs for DAism here.
 
 # PLZ CONTACT ME‼️
+We are looking for collabration with open-source AI projects!
 
 - **Twitter:** [@Aranna0572](https://twitter.com/Aranna0572)
 - **Wechat:** Aranna_0572
-- 
+
 Happy coding! 😊
 ```` ▋
