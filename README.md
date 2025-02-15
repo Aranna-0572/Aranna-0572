@@ -1,6 +1,7 @@
 # Hi there, I'm Aranna! 👋
 
-I'm a blockchain enthusiast with a passion for AI and decentralized technologies. Currently, I'm focused on building and developing a blockchain project that explores new possibilities in the world of decentralized applications (dApps).
+- digging into blockchain & AI & decentralized governance
+- building a blockchain project for open-sourced dApps
 
 I don’t write code but I leverage AI tools to enhance my work and streamline processes.
 
@@ -19,5 +20,4 @@ We are looking for collabration with open-source AI projects!
 - **Twitter:** [@Aranna0572](https://twitter.com/Aranna0572)
 - **Wechat:** Aranna_0572
 
-Happy coding! 😊
-```` ▋
+Happy building! 😊
