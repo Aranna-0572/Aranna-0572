@@ -6,7 +6,6 @@
 I don’t write code but I utilize AI tools to build something interesting.
 
 ## 🚀 Projects
-Here are some of the projects I've been working on:
 
 ### [DAism](https://github.com/DAism2019/Smartcontract)
 A brief description of what this project does and its purpose.
