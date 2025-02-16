@@ -7,11 +7,11 @@ I don’t write code but I utilize AI tools to build something interesting.
 
 ## 🚀 Projects
 
-### [DAism](https://github.com/DAism2019/Smartcontract)
-A brief description of what this project does and its purpose.
+### [SCC0](https://github.com/Aranna-0572/SCC0)
 
 ### [DAism-Docs](https://github.com/Aranna-0572/DAism-Docs)
 You can find related Docs for DAism here.
+
 
 # PLZ CONTACT ME‼️
 We are looking for collabration with AI projects!
