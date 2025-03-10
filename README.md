@@ -7,7 +7,7 @@ I don’t write code but I utilize AI tools to build something interesting.
 
 ## 🚀 Projects
 
-### [SCC0](https://github.com/Aranna-0572/SCC0)
+### [Smart Creative Commons Zero (SCC0)](https://github.com/DAism2019/SCC0)
 
 ### [DAism-Docs](https://github.com/Aranna-0572/DAism-Docs)
 You can find related Docs for DAism here.
