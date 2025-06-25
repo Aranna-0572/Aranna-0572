@@ -16,6 +16,10 @@
   A visionary philosophical work proposing **“love”** as the ethical foundation and governance consensus of post-AI human civilization.  
   It explores how the logic of love can replace domination structures, guide AGI alignment, and govern human society through empathy and mitsein (Heidegger's being-with).
 
+- **[蒙尘的珍珠：公共领域许可证的前世今生与未来](https://www.panewslab.com/zh/articles/9ay5l04tefc3)** 🏆 *3rd Prize, PKU Blockchain Global Industry Research Competition*  
+  A research paper tracing the historical evolution of public domain and open-source licensing models — from the free software movement to today's blockchain-native licensing.  
+  It introduces SCC0 (Smart Creative Commons Zero) as a new paradigm for on-chain public goods governance.
+
   
 
 ## 🚀 Projects
@@ -26,7 +30,7 @@
 You can find related Docs for DAism here.
 
 
-# PLZ CONTACT ME‼️
+# 🤝 Let's Collaborate!
 We are looking for collabration with AI projects!
 If you are interested in the integration of AI with blockchain in the context of financial empowerment, please contact us. We can provide build something interesting together!
 
