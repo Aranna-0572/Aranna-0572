@@ -8,7 +8,7 @@
 
 ## 🌟 Portfolio
 
-- **[Proof of Love: The Key to Govern AI](https://arxiv.org/abs/xxxx.xxxxx)** *(coming soon)*  
+- **[Proof of Love: The Key to Govern AI](https://daism.io/zh/smartcommons/actor/0xAranna0572@daism.io)** *(coming soon)*  
   A governance proposal combining AI ethics, love, and decentralized architecture.
 
 ## 🚀 Projects
