@@ -4,7 +4,7 @@
 - 🛠️ Building meaningful **dApps** to support the public good and open-source communities  
 - 🧠 Working on ethical frameworks like **Proof of Love** to guide future technologies
 
-> *I don’t write code, but I build ideas — with AI as my tool, and philosophy as my compass.*
+> *I don’t write code, but I architect the next civilization — with AI as my tool, and philosophy as my compass.*
 
 
 ## 🌟 Portfolio
