@@ -6,10 +6,17 @@
 
 > *I don’t write code, but I build ideas — with AI as my tool, and philosophy as my compass.*
 
+
 ## 🌟 Portfolio
 
 - **[Proof of Love: The Key to Govern AI](https://daism.io/zh/smartcommons/actor/0xAranna0572@daism.io)** *(coming soon)*  
   A governance proposal combining AI ethics, love, and decentralized architecture.
+  
+- **[Proof of Love: The Consensus for the Next Human Civilization](https://daism.io/zh/communities/enki/456f17cea59f48b1a7bcd322592c73a3)** *(in progress)*  
+  A visionary philosophical work proposing **“love”** as the ethical foundation and governance consensus of post-AI human civilization.  
+  It explores how the logic of love can replace domination structures, guide AGI alignment, and govern human society through empathy and mitsein (Heidegger's being-with).
+
+  
 
 ## 🚀 Projects
 
