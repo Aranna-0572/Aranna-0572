@@ -6,6 +6,11 @@
 
 > *I don’t write code, but I build ideas — with AI as my tool, and philosophy as my compass.*
 
+## 🌟 Portfolio
+
+- **[Proof of Love: The Key to Govern AI](https://arxiv.org/abs/xxxx.xxxxx)** *(coming soon)*  
+  A governance proposal combining AI ethics, love, and decentralized architecture.
+
 ## 🚀 Projects
 
 ### [Smart Creative Commons Zero (SCC0)](https://github.com/DAism2019/SCC0)
