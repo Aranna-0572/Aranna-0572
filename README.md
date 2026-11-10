@@ -103,41 +103,9 @@ My work with DAism provides a background in decentralized governance, public goo
 
 ## Idea Lab
 
-### 天马行空实验室
+[**天马行空实验室 · Explore my Idea Lab →**](https://github.com/Aranna-0572/Idea-Lab)
 
-*An open notebook for questions, prototypes, and worlds in the making.*
-
-### 01 · Resonant Relational Philosophy
-**共振关系哲学** · `Prototype`
-
-An interactive philosophical concept map that invites visitors to explore ideas through their connections. The repository contains a graph interface, concept details, and a conversational interface.
-
-**Next direction:** develop clearer conceptual explanations and connect the experience more closely to my research.
-
-[Explore the code](https://github.com/Aranna-0572/Resonant-Relational-Phil)
-
-### 02 · Human–AI Relational Ethics Experiments
-**人机关系伦理实验** · `Exploring`
-
-Could interactive scenarios help us examine agency, dependence, manipulation, and non-domination in human–AI relationships?
-
-**Possible form:** a collection of small interactive experiments connecting philosophical questions with observable choices and evaluation criteria.
-
-### 03 · Relational Alignment Evaluation
-**关系对齐评测构想** · `Research idea`
-
-How might we evaluate an AI system's behaviour across an evolving relationship, including shifts in power, conflicting obligations, and changing contexts?
-
-**Next direction:** formulate testable questions and investigate what existing evaluations already capture.
-
-### 04 · Paradox Domains & Horizons
-**悖域与视界** · `Worldbuilding in progress`
-
-A fictional world exploring what happens when realities with internally coherent but mutually contradictory rules begin to overlap.
-
-**Possible form:** fiction, a worldbuilding archive, and philosophical thought experiments about boundaries, coexistence, and transformation.
-
-*Prototype means there is an implementation to explore; Exploring and Research idea describe future directions, not completed products.*
+An open notebook for research ideas, interactive prototypes, and fictional worlds in the making.
 
 ## Let's Connect
 
