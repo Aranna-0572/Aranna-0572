@@ -16,6 +16,8 @@
 
 I'm **Aranna**, an independent researcher and writer based in Shenzhen, China, with a background in sociology and management.
 
+**Education:** Shenzhen University · Undergraduate degree in Human Resource Management, College of Management.
+
 I explore how relations shape subjects, values, and shared life, and how these insights might inform **AI alignment and governance**. My work spans philosophical inquiry, research writing, and contributions to team projects on AI governance.
 
 Alongside research, I enjoy turning abstract ideas into interactive experiences and fictional worlds.
@@ -35,6 +37,15 @@ Three questions guide this work:
 - **Consistency across contexts.** How can ethical commitments remain meaningful as roles, incentives, and situations change?
 
 My philosophical starting point is that subjects and relational fields are mutually constitutive. I am exploring how this view can inform concrete governance principles and evaluation questions.
+
+### Related Scholars & Intellectual Context
+
+My research intersects with relational approaches to technology, moral standing, and ethics, particularly the work of:
+
+- **[David J. Gunkel](https://www.gunkelweb.com/)**: the relational turn in AI and robot ethics, moral standing, and human–machine communication.
+- **[Mark Coeckelbergh](https://coeckelbergh.net/)**: relational approaches to moral standing, AI ethics, and the social and political dimensions of technology.
+
+Their work provides points of dialogue for my research into relational ontology, non-domination, and alignment across changing contexts.
 
 *This is an ongoing research programme. Its philosophical arguments and practical implications are still being developed.*
 
@@ -74,11 +85,13 @@ An exploration of public-domain and open-source licensing, tracing their history
 
 ## Team Projects
 
-### NaturalDAO · Proof-of-Love Governance
+### NaturalDAO · Research & Partnerships
+
+**Role:** Research & Partnerships · 研究与合作
 
 A team initiative connecting ethical frameworks with AI governance. The current governance workspace includes datasets, model evaluation, and research into runtime governance.
 
-**My focus:** PoL governance theory and the overall conceptual framework. I contribute from a philosophical and governance perspective, alongside the team's engineering work.
+**My focus:** PoL governance theory, the overall conceptual framework, research exchange, and partnerships. I contribute from a philosophical and governance perspective, alongside the team's engineering work.
 
 [Theory & plans](https://github.com/naturaldao/NaturalDAO) · [Governance & evaluation](https://github.com/naturaldao/NaturalDAO-2nd/tree/main/PoL-Governance)
 
