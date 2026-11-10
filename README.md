@@ -60,6 +60,8 @@ Their work provides points of dialogue for my research into relational ontology,
 
 ## Selected Writing
 
+**Academic profiles:** [ResearchGate](https://www.researchgate.net/profile/Wenhui-Deng-5/research) · [Google Scholar](https://scholar.google.com/citations?user=aWa8jfgAAAAJ&hl=en)
+
 ### Proof of Love: The Consensus of AI and Next Civilization
 **爱的证明：治理 AI 和人类文明的共识机制**
 
